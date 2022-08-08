@@ -1,1 +1,3 @@
 # Recreating-John-Snow-s-Cholera-Map
+In the 19th Century, A cholera outbreak happened in london, Scientist had different speculations about what caused it, many assumed that cholera was spread to the air, but Dr John Snow suspected ti was caused by water, he collected data to create a map with which he was able to prove his Hypothesis.
+Dr. Snow's map was able to spatially associate cholera cases with a single contaminated water pump. This led to three positive changes: the water pump was disabled, preventing further deaths, cholera was identified as a waterborne disease, and efforts began to improve water and waste systems in London.
